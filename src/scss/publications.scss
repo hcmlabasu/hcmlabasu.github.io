@@ -1,0 +1,22 @@
+.publications{
+    width: 50%;
+    min-width: 600px;
+    p:nth-child(2){
+        margin-bottom: 3rem;
+        &:hover{
+            cursor: default;
+            text-decoration: none;
+        }
+    }
+    h3,p{
+        margin: 2rem 0;
+    }
+    p{
+        font-size: 18px;
+        font-weight: 500;
+        &:hover{
+            cursor: pointer;
+            text-decoration: underline;
+        }
+    }
+}

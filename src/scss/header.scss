@@ -1,0 +1,19 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding:2rem;
+    width:100%;
+    .logo{
+        width: 250px;
+    }
+    .nav-list{
+        display: flex;
+        li{
+            list-style: none;
+            font-weight: 500;
+            padding:1rem;
+            color:black;
+            text-transform: capitalize;
+        }
+    }
+}
