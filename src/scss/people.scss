@@ -1,0 +1,30 @@
+.people{
+    width: 75%;
+    min-width: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    &__item{
+        display: flex;
+        gap: 20px;
+        flex: 1;
+        &__img{
+            width: 120px;
+            border-right: 1px solid $hcm-green;
+            padding-right: 1rem;
+            object-fit: contain;
+        
+        }
+        &__details{
+            align-self: flex-end;
+        }
+        &__title{
+            width: 75%;
+            min-width: 300px;
+        }
+        &__email{
+
+        }
+    }
+   
+}

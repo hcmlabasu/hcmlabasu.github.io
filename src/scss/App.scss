@@ -14,6 +14,7 @@
 a{
     text-decoration: none;
     cursor: pointer;
+    &:focus,&:visited{color:black;}
 }
 .App{
     display: flex;
@@ -21,6 +22,7 @@ a{
     align-items: center;
     justify-content:space-between;
     min-height: 100vh;
+    gap: 4rem;
 }
 *{
     box-sizing: border-box;

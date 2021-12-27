@@ -1,0 +1,21 @@
+.footer{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 0.5rem 3rem 0.5rem;
+    gap: 1rem;
+    width: 100%;
+    border-top: 1px solid #e5e5e5;
+
+.asu-logo{
+    display: inline;
+    width: 100px;
+    object-fit: contain;
+}
+.hcm-logo{
+    display: inline;
+    width: 150px;
+    margin-left: 20px;
+    object-fit: contain;
+}
+}
