@@ -1,23 +1,31 @@
 {
   "files": {
-    "main.css": "/static/css/main.c0d66ec7.chunk.css",
-    "main.js": "/static/js/main.52ee7f6d.chunk.js",
-    "main.js.map": "/static/js/main.52ee7f6d.chunk.js.map",
+    "main.css": "/static/css/main.259d9109.chunk.css",
+    "main.js": "/static/js/main.c18120a2.chunk.js",
+    "main.js.map": "/static/js/main.c18120a2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.7ece1186.js",
     "runtime-main.js.map": "/static/js/runtime-main.7ece1186.js.map",
-    "static/js/2.6dfaeeae.chunk.js": "/static/js/2.6dfaeeae.chunk.js",
-    "static/js/2.6dfaeeae.chunk.js.map": "/static/js/2.6dfaeeae.chunk.js.map",
+    "static/js/2.6281aa61.chunk.js": "/static/js/2.6281aa61.chunk.js",
+    "static/js/2.6281aa61.chunk.js.map": "/static/js/2.6281aa61.chunk.js.map",
     "static/js/3.175d6e52.chunk.js": "/static/js/3.175d6e52.chunk.js",
     "static/js/3.175d6e52.chunk.js.map": "/static/js/3.175d6e52.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.c0d66ec7.chunk.css.map": "/static/css/main.c0d66ec7.chunk.css.map",
-    "static/js/2.6dfaeeae.chunk.js.LICENSE.txt": "/static/js/2.6dfaeeae.chunk.js.LICENSE.txt",
-    "static/media/logo.d8789c20.png": "/static/media/logo.d8789c20.png"
+    "static/css/main.259d9109.chunk.css.map": "/static/css/main.259d9109.chunk.css.map",
+    "static/js/2.6281aa61.chunk.js.LICENSE.txt": "/static/js/2.6281aa61.chunk.js.LICENSE.txt",
+    "static/media/arafa-b.cda65b23.jpeg": "/static/media/arafa-b.cda65b23.jpeg",
+    "static/media/asu-logo.ecaada37.png": "/static/media/asu-logo.ecaada37.png",
+    "static/media/hamdy-osama-b.5b393600.jpg": "/static/media/hamdy-osama-b.5b393600.jpg",
+    "static/media/hcm-logo.bf475da0.webp": "/static/media/hcm-logo.bf475da0.webp",
+    "static/media/logo.cda6498a.png": "/static/media/logo.cda6498a.png",
+    "static/media/mohamed-ibrahim-b.35f864be.jpeg": "/static/media/mohamed-ibrahim-b.35f864be.jpeg",
+    "static/media/placeholder.12a4b9ef.png": "/static/media/placeholder.12a4b9ef.png",
+    "static/media/shady-b.e904028c.jpeg": "/static/media/shady-b.e904028c.jpeg",
+    "static/media/sherif-hamad-b.b09fb96a.jpeg": "/static/media/sherif-hamad-b.b09fb96a.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.7ece1186.js",
-    "static/js/2.6dfaeeae.chunk.js",
-    "static/css/main.c0d66ec7.chunk.css",
-    "static/js/main.52ee7f6d.chunk.js"
+    "static/js/2.6281aa61.chunk.js",
+    "static/css/main.259d9109.chunk.css",
+    "static/js/main.c18120a2.chunk.js"
   ]
 }
