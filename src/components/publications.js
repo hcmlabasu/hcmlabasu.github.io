@@ -1,10 +1,9 @@
 import { useState } from 'react';
-import logo from '../logo.png';
 const Publications = () => {
     return (
       
         <section className="publications">
-        <h2  className="bold lg-font">Publications</h2>
+        <h1  className="bold lg-font">Publications</h1>
 <p  className="medium sm-font">References and links to papers</p>
 <h3  className="bold md-font">Book Chapters</h3>
 <a>lireza Abouhossein, Uriel Martinez-Hernandez, Mohammed I. Awad, Imran Mahmood, Derya Yilmaz, and Abbas A. Dehghani-Sanij. "Assistive Gait Wearable Robots—From the Laboratory to the Real Environment." In Reinventing Mechatronics, pp. 75-92. Springer, 2020.

@@ -1,12 +1,20 @@
 .about{
     width: 75%;
-    min-width: 300px;
-    p{font-size:16px; line-height:1.88em;font-family:"Open Sans", sans-serif; margin: 1rem 0; font-weight:300;}
-    img:first-of-type{margin-right: 1rem;}
+    min-width: 300px;display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    h1{
+        display: block;
+        width: 100%;
+    }
+    p{
+         line-height:1.5; margin-bottom: 4rem; }
+    // p:first-of-type{margin: 0rem;}
     &__img{
-width: 45%;
-margin-bottom: 1rem;
-object-fit: contain;
+        width: 48%;
+        min-width: 300px;
+        margin-bottom: 4rem;
+        object-fit: contain;
     }
     &__logo-wrapper{
         display: flex;

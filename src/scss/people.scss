@@ -1,9 +1,15 @@
 .people{
     width: 75%;
     min-width: 300px;
-    display: flex;
-    flex-wrap: wrap;
-    gap: 2rem;
+    & > p:first-of-type{
+        margin-bottom: 3rem;
+    }
+    &__items-wrapper{
+
+        display: flex;
+        flex-wrap: wrap;
+        gap: 2rem;
+    }
     &__item{
         display: flex;
         gap: 20px;

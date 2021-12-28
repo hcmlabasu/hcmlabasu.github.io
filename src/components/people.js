@@ -21,8 +21,9 @@ const People = () => {
     return (
       
         <section className="people">
-                  {/* <h2  className="bold lg-font">People</h2>
-                  <p  className="medium sm-font">References and links to papers</p> */}
+                 <h1  className="bold lg-font">People</h1>
+                  <p  className="medium sm-font">Meet our team</p> 
+                  <div className="people__items-wrapper">
            {data.map(d => (
                   <div key={d.id} className="people__item">
                   <img className="people__item__img" src={d.src}
@@ -34,6 +35,7 @@ const People = () => {
                   </div>
                 </div>
                 ))} 
+                 </div>
       </section>
     )
 }

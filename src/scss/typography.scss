@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@700&family=Open+Sans:ital,wght@0,300;0,400;0,500;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@700&family=Open+Sans:ital,wght@0,300;0,400;0,500;1,400&family=Raleway:wght@900&display=swap');
 .light{
     font-family: "Open Sans", sans-serif;
     font-weight: 300;
@@ -10,7 +10,7 @@
 }
 .bold{
     font-weight: 800;
-    font-family: "Open Sans Condensed", sans-serif;
+    font-family: "Raleway", sans-serif;
 }
 .xs-font{
     font-size:11px;
@@ -18,13 +18,18 @@
 .sm-font{
     font-size:14px;
 }
-.lg-font{
-    font-size: 24px;
-}
+
 .md-font{
     font-size:16px;
 }
-p,h1,h2,h3,h6{
+.xmd-font{
+    font-size:18px;
+}
+.lg-font{
+    font-size: 28px;
+}
+
+p,h1,h2,h3,h6,h5,h4{
     color: black;
     text-align: left;
     margin: 0;

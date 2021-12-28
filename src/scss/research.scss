@@ -1,22 +1,36 @@
 .research{
     width: 75%;
     min-width: 300px;
-    p:nth-child(2){
+    & > p:first-of-type{
         margin-bottom: 3rem;
-        &:hover{
-            cursor: default;
-            text-decoration: none;
-        }
     }
-    h3,p{
-        margin: 2rem 0;
+    &__items-wrapper{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        gap: 3rem;
+    
     }
-    p{
-        font-size: 18px;
-        font-weight: 500;
-        &:hover{
-            cursor: pointer;
-            text-decoration: underline;
+    &__item{
+        img{
+            width: 100%;
+            object-fit: cover;
+            object-position: 0 25%;
+            height: 200px;
         }
+        &__description{
+            padding: 1rem 0;
+        }
+        &__btn{
+            border: 0;
+            background:transparent;
+            padding: 0;
+            font-weight: 500;
+            text-transform: capitalize;
+        }
+        width: 48%;
+        text-align: left;
+        min-width: 300px;
+        max-width: 400px;
     }
 }
