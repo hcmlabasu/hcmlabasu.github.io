@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.fabba9e2.chunk.css",
+    "main.css": "/static/css/main.329f5faa.chunk.css",
     "main.js": "/static/js/main.326a8159.chunk.js",
     "main.js.map": "/static/js/main.326a8159.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.7ece1186.js",
@@ -10,7 +10,7 @@
     "static/js/3.175d6e52.chunk.js": "/static/js/3.175d6e52.chunk.js",
     "static/js/3.175d6e52.chunk.js.map": "/static/js/3.175d6e52.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.fabba9e2.chunk.css.map": "/static/css/main.fabba9e2.chunk.css.map",
+    "static/css/main.329f5faa.chunk.css.map": "/static/css/main.329f5faa.chunk.css.map",
     "static/js/2.6281aa61.chunk.js.LICENSE.txt": "/static/js/2.6281aa61.chunk.js.LICENSE.txt",
     "static/media/arafa-b.cda65b23.jpeg": "/static/media/arafa-b.cda65b23.jpeg",
     "static/media/asu-logo.ecaada37.png": "/static/media/asu-logo.ecaada37.png",
@@ -34,7 +34,7 @@
   "entrypoints": [
     "static/js/runtime-main.7ece1186.js",
     "static/js/2.6281aa61.chunk.js",
-    "static/css/main.fabba9e2.chunk.css",
+    "static/css/main.329f5faa.chunk.css",
     "static/js/main.326a8159.chunk.js"
   ]
 }
