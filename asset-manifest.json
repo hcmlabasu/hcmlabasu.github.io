@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.445bd992.chunk.css",
-    "main.js": "/static/js/main.03c33b60.chunk.js",
-    "main.js.map": "/static/js/main.03c33b60.chunk.js.map",
+    "main.js": "/static/js/main.f29c3648.chunk.js",
+    "main.js.map": "/static/js/main.f29c3648.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.7ece1186.js",
     "runtime-main.js.map": "/static/js/runtime-main.7ece1186.js.map",
     "static/js/2.6281aa61.chunk.js": "/static/js/2.6281aa61.chunk.js",
@@ -29,12 +29,13 @@
     "static/media/researchSWS.e65f6581.jpg": "/static/media/researchSWS.e65f6581.jpg",
     "static/media/shady-b.e904028c.jpeg": "/static/media/shady-b.e904028c.jpeg",
     "static/media/sherif-hamad-b.b09fb96a.jpeg": "/static/media/sherif-hamad-b.b09fb96a.jpeg",
-    "static/media/stdf-logo.e822bd8c.png": "/static/media/stdf-logo.e822bd8c.png"
+    "static/media/stdf-logo.e822bd8c.png": "/static/media/stdf-logo.e822bd8c.png",
+    "static/media/tamer-emara-b.59976cea.jpg": "/static/media/tamer-emara-b.59976cea.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.7ece1186.js",
     "static/js/2.6281aa61.chunk.js",
     "static/css/main.445bd992.chunk.css",
-    "static/js/main.03c33b60.chunk.js"
+    "static/js/main.f29c3648.chunk.js"
   ]
 }
