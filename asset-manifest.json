@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.445bd992.chunk.css",
-    "main.js": "/static/js/main.126b07fc.chunk.js",
-    "main.js.map": "/static/js/main.126b07fc.chunk.js.map",
+    "main.js": "/static/js/main.66aea381.chunk.js",
+    "main.js.map": "/static/js/main.66aea381.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.7ece1186.js",
     "runtime-main.js.map": "/static/js/runtime-main.7ece1186.js.map",
     "static/js/2.6281aa61.chunk.js": "/static/js/2.6281aa61.chunk.js",
@@ -16,8 +16,8 @@
     "static/media/asu-logo.ecaada37.png": "/static/media/asu-logo.ecaada37.png",
     "static/media/hamdy-osama-b.5b393600.jpg": "/static/media/hamdy-osama-b.5b393600.jpg",
     "static/media/hcm-logo.bf475da0.webp": "/static/media/hcm-logo.bf475da0.webp",
-    "static/media/hcmlab-1.a55d8114.jpg": "/static/media/hcmlab-1.a55d8114.jpg",
-    "static/media/hcmlab-2.54608d0d.jpg": "/static/media/hcmlab-2.54608d0d.jpg",
+    "static/media/lab3.dc2c8310.jpeg": "/static/media/lab3.dc2c8310.jpeg",
+    "static/media/lab4.9e25d589.jpeg": "/static/media/lab4.9e25d589.jpeg",
     "static/media/logo.cda6498a.png": "/static/media/logo.cda6498a.png",
     "static/media/mohamed-ibrahim-b.35f864be.jpeg": "/static/media/mohamed-ibrahim-b.35f864be.jpeg",
     "static/media/placeholder.12a4b9ef.png": "/static/media/placeholder.12a4b9ef.png",
@@ -36,6 +36,6 @@
     "static/js/runtime-main.7ece1186.js",
     "static/js/2.6281aa61.chunk.js",
     "static/css/main.445bd992.chunk.css",
-    "static/js/main.126b07fc.chunk.js"
+    "static/js/main.66aea381.chunk.js"
   ]
 }
