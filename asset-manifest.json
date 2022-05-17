@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.445bd992.chunk.css",
-    "main.js": "/static/js/main.66aea381.chunk.js",
-    "main.js.map": "/static/js/main.66aea381.chunk.js.map",
+    "main.css": "/static/css/main.63e988bc.chunk.css",
+    "main.js": "/static/js/main.d050b4e1.chunk.js",
+    "main.js.map": "/static/js/main.d050b4e1.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.7ece1186.js",
     "runtime-main.js.map": "/static/js/runtime-main.7ece1186.js.map",
     "static/js/2.6281aa61.chunk.js": "/static/js/2.6281aa61.chunk.js",
@@ -10,10 +10,12 @@
     "static/js/3.175d6e52.chunk.js": "/static/js/3.175d6e52.chunk.js",
     "static/js/3.175d6e52.chunk.js.map": "/static/js/3.175d6e52.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.445bd992.chunk.css.map": "/static/css/main.445bd992.chunk.css.map",
+    "static/css/main.63e988bc.chunk.css.map": "/static/css/main.63e988bc.chunk.css.map",
     "static/js/2.6281aa61.chunk.js.LICENSE.txt": "/static/js/2.6281aa61.chunk.js.LICENSE.txt",
     "static/media/arafa-b.cda65b23.jpeg": "/static/media/arafa-b.cda65b23.jpeg",
     "static/media/asu-logo.ecaada37.png": "/static/media/asu-logo.ecaada37.png",
+    "static/media/eeg.39b55b2f.jpg": "/static/media/eeg.39b55b2f.jpg",
+    "static/media/gamebased.9ab2b1a5.jpg": "/static/media/gamebased.9ab2b1a5.jpg",
     "static/media/hamdy-osama-b.5b393600.jpg": "/static/media/hamdy-osama-b.5b393600.jpg",
     "static/media/hcm-logo.bf475da0.webp": "/static/media/hcm-logo.bf475da0.webp",
     "static/media/lab3.dc2c8310.jpeg": "/static/media/lab3.dc2c8310.jpeg",
@@ -35,7 +37,7 @@
   "entrypoints": [
     "static/js/runtime-main.7ece1186.js",
     "static/js/2.6281aa61.chunk.js",
-    "static/css/main.445bd992.chunk.css",
-    "static/js/main.66aea381.chunk.js"
+    "static/css/main.63e988bc.chunk.css",
+    "static/js/main.d050b4e1.chunk.js"
   ]
 }
