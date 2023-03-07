@@ -2,7 +2,20 @@
     width: 75%;
     min-width: 300px;
     .title{
+        margin-bottom: 1rem;
+
     }
     .description{
+        margin-bottom: 1rem;
+    }
+    &__img-wrapper{
+        display: flex;
+        justify-content:space-between;
+    }
+    &__img{
+        width: 48%;
+        margin: 2rem 0;
+        object-fit: cover;
+        max-width: 500px;
     }
 }

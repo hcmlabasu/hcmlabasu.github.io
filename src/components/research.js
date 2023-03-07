@@ -1,7 +1,5 @@
-import { useState } from 'react';
-import {  BrowserRouter as Router,
-  Switch,
-  Route,
+
+import {  
   Link } from "react-router-dom";
 import reasearchBM from '../assets/research/researchBM.png';
 import researchSWS from '../assets/research/researchSWS.jpg';
@@ -12,13 +10,13 @@ import researchAT from '../assets/research/researchAT.png';
 // import researchR from '../assets/research/researchR.png';
 
 const Research = () => {
-  const data = [{src:reasearchBM,title:"Biomechanics",description:""},
-  {src:researchSWS,title:"Smart Wearable Sensors",description:""},
-  {src:researchLP,title:"Lower and Upper Limb Prostheses",description:""},
-  {src:researchEO,title:"Exoskeletons and Orthoses",description:""},
-  {src:researchGB,title:"Game-Based Rehabilitation Robot",description:""},
-  {src:researchAT,title:" Assistive Technologies",description:""},
-  {src:"",title:" Robotics in Healthcare",description:""},]
+  const data = [{id:"1" , src:reasearchBM,title:"Biomechanics",description:""},
+  {id:"2" , src:researchSWS,title:"Smart Wearable Sensors",description:""},
+  {id:"3" , src:researchLP,title:"Lower and Upper Limb Prostheses",description:""},
+  {id:"4" , src:researchEO,title:"Exoskeletons and Orthoses",description:""},
+  {id:"5" , src:researchGB,title:"Game-Based Rehabilitation Robot",description:""},
+  {id:"6" , src:researchAT,title:" Assistive Technologies",description:""},
+  {id:"7" , src:"",title:" Robotics in Healthcare",description:""},]
     return (
         <section className="research">
                 <h1 className="bold lg-font">Research & Discoveries</h1>
